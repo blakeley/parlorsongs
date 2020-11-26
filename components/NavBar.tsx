@@ -10,7 +10,7 @@ const NavLink: FunctionComponent<{ href: string }> = ({ href, children }) => (
 );
 
 export const NavBar: FunctionComponent = () => (
-  <nav className="bg-white shadow-sm text-center z-30 h-12 relative flex align-middle text-center mx-auto">
+  <nav className="bg-white shadow-sm z-30 h-12 relative flex align-middle text-center mx-auto">
     <div className="mx-auto flex flex-row">
       <NavLink href="/">Home</NavLink>
       <NavLink href="/issues">Issues</NavLink>

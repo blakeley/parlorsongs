@@ -3,11 +3,38 @@
 @tailwind utilities;
 
 @import url('https://rsms.me/inter/inter.css');
-html { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  html { font-family: 'Inter var', sans-serif; }
+
+article {
+  @apply mx-auto max-w-screen-md text-gray-600 leading-snug;
 }
 
+article h1 {
+ @apply text-green-900 text-4xl font-bold mt-8 text-center font-display;
+}
+
+article h2 {
+ @apply text-2xl font-bold mb-8 text-center font-display;
+}
+
+article h3 {
+  @apply text-2xl font-display font-bold mt-8 mb-4;
+}
+
+article p {
+  margin-bottom: 1rem;
+}
+
+article a {
+  @apply text-green-700 hover:underline;
+}
+
+article img {
+  @apply float-right clear-both w-48 ml-8 mb-8;
+}
+
+article figure img {
+  margin: 0;
+}
 
 html,
 body {
