@@ -6,9 +6,13 @@ const Issue: FunctionComponent = () => (
     <NavBar />
 
     <article>
-      <h1>Schwanengesang (Swan Song)</h1>
+      <header className="text-center">
+        <h1>Schwanengesang (Swan Song)</h1>
 
-      <h2>The Final Parlorsongs Article</h2>
+        <h2>The Final Parlorsongs Article</h2>
+
+        <time>November 2019</time>
+      </header>
 
       <p>
         "In ancient legend, there are types of swans that either sing most
