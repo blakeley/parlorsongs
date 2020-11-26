@@ -6,8 +6,8 @@ module.exports = {
   theme: {
     extend: {},
     fontFamily: {
-     'display': ['"Inter var"'],
-     'body': ['Roboto','Open Sans'],
+     'display': ['"Inter var"', 'Inter', 'Open Sans'],
+     'body': ['Roboto', 'Open Sans'],
     }
   },
   variants: {
