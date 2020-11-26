@@ -32,7 +32,12 @@ article img {
   @apply float-right clear-both w-48 ml-8 mb-8;
 }
 
+article figure {
+  @apply flex flex-row my-8 justify-around;
+}
+
 article figure img {
+  object-fit: scale-down;
   margin: 0;
 }
 

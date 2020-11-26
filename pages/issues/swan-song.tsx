@@ -134,10 +134,10 @@ const Issue: FunctionComponent = () => (
           able to publish due to no relevant article. So, I will present to you
           a few the unpublished military related works unpublished.{" "}
         </p>
-        <figure className="flex flex-row my-8 justify-around">
-          <img src="/coastguardforever.jpg" className="scale-down" />{" "}
-          <img src="/CGmarch.jpg" className=" scale-down" />
-          <img src="/silvershield-cover.jpg" className=" scale-down" />
+        <figure>
+          <img src="/coastguardforever.jpg" />
+          <img src="/CGmarch.jpg" />
+          <img src="/silvershield-cover.jpg" />
         </figure>
         <p>
           {" "}
