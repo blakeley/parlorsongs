@@ -2,13 +2,25 @@ import Head from "next/head";
 import { FunctionComponent } from "react";
 import { NavBar } from "../../components/NavBar";
 
-const IssuesListItem: FunctionComponent<{
+interface Issue {
   slug: string;
   publishedOn: Date;
   h2: string;
   h3: string;
   imgSrc: string;
-}> = (props) => (
+}
+
+const issues: Issue[] = [
+  {
+    slug: "swan-song",
+    publishedOn: new Date("nov 2019"),
+    h2: "Schwanengesang (Swan Song)",
+    h3: "The Final Parlorsongs Article",
+    imgSrc: "swansongs-forindex.jpg",
+  },
+];
+
+const IssuesListItem: FunctionComponent<Issue> = (props) => (
   <li className="border-solid border-b border-gray-300 hover:bg-gray-50">
     <a
       href="issues/swan-song"
@@ -62,13 +74,7 @@ export default function Home() {
         </h1>
 
         <ol className="border-t border-solid border-gray-300">
-          <IssuesListItem
-            slug="swan-song"
-            publishedOn={new Date("nov 2019")}
-            h2="Schwanengesang (Swan Song)"
-            h3="The Final Parlorsongs Article"
-            imgSrc="swansongs-forindex.jpg"
-          />
+          {issues.map(IssuesListItem)}
         </ol>
       </main>
     </div>
