@@ -57,6 +57,10 @@ article.biographies blockquote p {
   margin: 0;
 }
 
+table.music-catalog a {
+  @apply hover:text-green-700 hover:underline
+}
+
 html,
 body {
   padding: 0;

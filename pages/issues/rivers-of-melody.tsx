@@ -62,7 +62,7 @@ const Issue: FunctionComponent = () => (
         City and Boston that operated between 1847 and 1937. It consisted of a
         railroad journey between Boston and Fall River, Massachusetts, where
         passengers would then board steamboats for the journey through
-        Narragansett Bay and Long Island Sound to the line's own Hudson River
+        Narragansett Bay and Long Island Sound to the line\'s own Hudson River
         dock in Manhattan. For many years, it was the preferred route to take
         for travel between the two major cities. The line was extremely popular,
         and its steamboats were some of the most advanced and luxurious of their
@@ -160,7 +160,7 @@ const Issue: FunctionComponent = () => (
         class I railroad, several bridges and avenues are all named for the
         river itself while four US Navy warships are either named for the river
         or the numerous battles that took place on or near it.&quot; (Wikipedia)
-        Listen to this song's{" "}
+        Listen to this song\'s{" "}
         <a href="/banksofwabash.mid" target="_blank">
           midi version
         </a>
@@ -244,7 +244,7 @@ const Issue: FunctionComponent = () => (
         South Carolina in his first lyrics. It has been called{" "}
         <strong>Swanee River</strong> because Foster had used an alternative
         contemporary spelling of the name.(see below for more on &quot;Swanee
-        Ribber). George Gershwin's song, made popular by Al Jolson, is also
+        Ribber). George Gershwin\'s song, made popular by Al Jolson, is also
         spelled "Swanee" and boasts that "the folks up North will see me no more
         when I get to that Swanee shore". Both of these songs feature
         banjo-strumming and reminiscences of a plantation life more typical of
@@ -263,7 +263,7 @@ const Issue: FunctionComponent = () => (
           <br />
           When I'm slumber boun; <br />
           But before I hit the hay, <br />
-          There's a pray'r I love to say: <br />
+          There\'s a pray'r I love to say: <br />
           <br />
           [Chorus] <br />
           Bless my Swanee River Home, <br />
@@ -273,7 +273,7 @@ const Issue: FunctionComponent = () => (
           <br />
           The more I linger, The more I sigh, <br />
           Oh! I could be so cheerful, <br />
-          With an earful of my Mammy's lullabye; <br />
+          With an earful of my Mammy\'s lullabye; <br />
           <br />
           Bless that little Dixie shack, <br />
           Where the unshine gleams; <br />
@@ -281,14 +281,14 @@ const Issue: FunctionComponent = () => (
           Each night in my dreams; <br />
           <br />
           Oh! Lord! I wanna offer, <br />
-          A little pray'r that's all my own; <br />
-          Won't you bless evry thing that's worth while blessing, <br />
+          A little pray'r that\'s all my own; <br />
+          Won't you bless evry thing that\'s worth while blessing, <br />
           in my Swanee River Home. <br />
           Home. <br />
           <br />
           2. <br />
           Ev'ry night I travel, straight for happiness, <br />
-          It's my mammy's sweet caress, <br />
+          It\'s my mammy\'s sweet caress, <br />
           Kind o' guides me there I guess; <br />
           All my dreams unravel; <br />
           On that dream express, 'Cause I hop into my berth, <br />
@@ -308,7 +308,7 @@ const Issue: FunctionComponent = () => (
         minstrel song written by Stephen Foster in 1851. Since 1935 it has been
         the official state song of Florida, although in 2008 the original lyrics
         were changed due to political correctness concerns. According to Joel
-        Whitburn's <em>Pop Memories 1890-1954</em>
+        Whitburn\'s <em>Pop Memories 1890-1954</em>
         (1986), "Old Folks at Home" was the best-selling sheet music song of the
         period, with over twenty million copies sold. "Old Folks at Home" in
         print was credited to E. P. Christy on early sheet music printings.
@@ -319,7 +319,7 @@ const Issue: FunctionComponent = () => (
         Mississippi), which despite fitting the melody perfectly, was rejected
         by Foster. The second suggestion was "Pee Dee" (in South Carolina), to
         which Foster said, "Oh pshaw! I won't have that." His brother then
-        consulted an atlas and called out "Suwannee!" Foster said, "That's it,
+        consulted an atlas and called out "Suwannee!" Foster said, "That\'s it,
         exactly!" Adding it to the lyrics, he purposely misspelled it as
         "Swanee" to fit the melody. Foster himself never saw the
         Suwannee&mdash;or even visited Florida&mdash;but the popularity of the
@@ -371,7 +371,7 @@ const Issue: FunctionComponent = () => (
         </a>
         .
       </p>
-      <h3>When It's Moonlight on the Mississippi</h3>
+      <h3>When It\'s Moonlight on the Mississippi</h3>
       <p>
         Words by Billy Vanderveer <br />
         Music by Arthur Lange <br />
@@ -384,7 +384,7 @@ const Issue: FunctionComponent = () => (
         only to the Hudson Bay drainage system. The stream is entirely within
         the United States, its source is Lake Itasca in northern Minnesota and
         it flows generally south for 2,320 miles to the Mississippi River Delta
-        in the Gulf of Mexico. With its many tributaries, the Mississippi's
+        in the Gulf of Mexico. With its many tributaries, the Mississippi\'s
         watershed drains all or parts of 31 U.S. states and two Canadian
         provinces between the Rocky and Appalachian Mountains. The Mississippi
         ranks as the fourth-longest and fifteenth-largest
@@ -427,7 +427,7 @@ const Issue: FunctionComponent = () => (
         River north of St. Louis, Missouri. The river takes drainage from a
         watershed of more than half a million square miles, which includes parts
         of ten U.S. states and two Canadian provinces. When combined with the
-        lower Mississippi River, it forms the world's fourth longest river
+        lower Mississippi River, it forms the world\'s fourth longest river
         system.
         <a href="https://en.wikipedia.org/wiki/Missouri_River#cite_note-RiversWorld-13"></a>
         For over 12,000 years, people have depended on the Missouri River and
@@ -438,8 +438,9 @@ const Issue: FunctionComponent = () => (
         part of the United States through the Louisiana Purchase. The Missouri
         was long believed to be part of the Northwest Passage &ndash; a water
         route from the Atlantic to the Pacific &ndash; but when Lewis and Clark
-        became the first to travel the river's entire length, they confirmed the
-        mythical pathway to be no more than a legend. (Wikipedia) Listen to the{" "}
+        became the first to travel the river\'s entire length, they confirmed
+        the mythical pathway to be no more than a legend. (Wikipedia) Listen to
+        the{" "}
         <a href="/rollonmissouri.mid" target="_blank">
           midi,
         </a>{" "}
@@ -471,21 +472,22 @@ const Issue: FunctionComponent = () => (
         in the United States. Over 5 million people live within the Potomac
         watershed. The river forms part of the borders between Maryland and
         Washington, D.C., Originally a poem by Ethel Lynn Beers, it was first
-        published as "The Picket Guard" in the <em>Harper's Weekly</em> issue
+        published as "The Picket Guard" in the <em>Harper\'s Weekly</em> issue
         dated November 30, 1861, attributed only to "E.B." It was then reprinted
         broadly, both with that attribution and without, leading to many
-        spurious claims of authorship. On July 4, 1863, <em>Harper's Weekly</em>{" "}
-        told its readers that the poem had been written for the paper by a lady
-        contributor whom it later identified as Beers. The poem was based on
-        newspaper reports of "all is quiet tonight", which was based on official
-        telegrams sent to the Secretary of War by Major-General George B.
-        McClellan, following the First Battle of Bull Run. Beers noticed that
-        the report was followed by a small item telling of a picket being
-        killed. She wrote the poem that same morning. In 1863, the poem was set
-        to music by John Hill Hewitt, himself a poet, newspaperman, and
-        musician, who was serving in the Confederate Army. This song may have
-        inspired the title of the English translation of Erich Maria Remarque's
-        World War I novel <em>All Quiet on the Western Front</em>. Listen to the{" "}
+        spurious claims of authorship. On July 4, 1863,{" "}
+        <em>Harper\'s Weekly</em> told its readers that the poem had been
+        written for the paper by a lady contributor whom it later identified as
+        Beers. The poem was based on newspaper reports of "all is quiet
+        tonight", which was based on official telegrams sent to the Secretary of
+        War by Major-General George B. McClellan, following the First Battle of
+        Bull Run. Beers noticed that the report was followed by a small item
+        telling of a picket being killed. She wrote the poem that same morning.
+        In 1863, the poem was set to music by John Hill Hewitt, himself a poet,
+        newspaperman, and musician, who was serving in the Confederate Army.
+        This song may have inspired the title of the English translation of
+        Erich Maria Remarque\'s World War I novel{" "}
+        <em>All Quiet on the Western Front</em>. Listen to the{" "}
         <a href="/quietonpotomac.mid" target="_blank">
           midi
         </a>
@@ -520,11 +522,11 @@ const Issue: FunctionComponent = () => (
         Bay. Edith Fowke offers anecdotal evidence that the song was known in at
         least five Canadian provinces before 1896.This finding led to
         speculation that the song was composed at the time of the 1870 Wolseley
-        Expedition to Manitoba's northern Red River Valley. It expresses the
+        Expedition to Manitoba\'s northern Red River Valley. It expresses the
         sorrow of a local woman as her soldier lover prepares to return to the
         east. In 1925, Carl T. Sprague, an early singing cowboy from Texas,
         recorded it as "Cowboy Love Song" , but it was fellow Texan Jules Verne
-        Allen's 1929 "Cowboy's Love Song", that gave the song its greatest
+        Allen\'s 1929 "Cowboy\'s Love Song", that gave the song its greatest
         popularity. .Members of the Western Writers of America chose it as one
         of the Top 100 Western songs of all time, ranked #10. Listen to the{" "}
         <a href="/redrivervalley.mid" target="_blank">

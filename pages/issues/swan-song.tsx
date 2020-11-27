@@ -38,7 +38,7 @@ const Issue: FunctionComponent = () => (
           <em>Schwanengesang</em> ("Swan song"), D 957, a collection of songs
           written by Franz Schubert at the end of his life and published
           posthumously. The collection was named by its first publisher Tobias
-          Haslinger, presumably wishing to present it as Schubert's final
+          Haslinger, presumably wishing to present it as Schubert\'s final
           musical testament to the world.
         </p>
         <p>
@@ -51,12 +51,12 @@ const Issue: FunctionComponent = () => (
           the site gained popularity and attention to the extent that it became
           its own separate site under the name of Parlorsongs. That change was
           initiated by Robert L. Maine who joined me as a partner in the web
-          site's development and design way back in 1997. Over the years the
+          site\'s development and design way back in 1997. Over the years the
           site reached thousands of listeners, grew to include full score
-          visibility and detailed articles relating to aspects of America's
+          visibility and detailed articles relating to aspects of America\'s
           music. Later, Rich Beil, joined me and added yet new dimensions to the
           site with actual vocal performances of some of the songs, production
-          of CD and a number of scholarly articles that elevated the site's
+          of CD and a number of scholarly articles that elevated the site\'s
           stature.
         </p>
         <p>
@@ -110,8 +110,8 @@ const Issue: FunctionComponent = () => (
           Here I want to share with you a recording I made of her beautiful
           "Reverie" a work for piano that is so expressive and beautiful it is
           an exemplar of her mastery of melody and emotion in music. Listen to
-          Carrie Bond's "<a href="/bond-reverie.mid">Reverie</a>". Another of
-          her rarely heard works is a wonderful piece called
+          Carrie Bond\'s <a href="/bond-reverie.mid">Reverie</a>. Another of her
+          rarely heard works is a wonderful piece called
           <a href="songs-media/chimneyswallows.mid">Chimney Swallows</a>. I
           think you may enjoy it as well. In her earliest years, one of her
           songs was
@@ -146,7 +146,7 @@ const Issue: FunctionComponent = () => (
         <p>
           {" "}
           First, three songs dedicated to the Valiant United States Coast Guard.
-          An often overlooked but heroic part of America's military. One of my
+          An often overlooked but heroic part of America\'s military. One of my
           grandchildren, Jack Redshaw proudly serves in the Coast Guard so this
           section is also dedicated to him and his shipmates who protect our
           waters and serve those in distress on the seas. The first is{" "}
@@ -173,8 +173,8 @@ const Issue: FunctionComponent = () => (
             <strong>The Silver Shield</strong>
           </em>{" "}
           "Fighting Song of the U.S. Coast Guard". This song was written during
-          WWII in honor of the Coast Guard's part in fighting the war. Listen to
-          the <a href="/silvershield.wav">WAV audio</a>, the{" "}
+          WWII in honor of the Coast Guard\'s part in fighting the war. Listen
+          to the <a href="/silvershield.wav">WAV audio</a>, the{" "}
           <a href="/silvershield.mid">MIDI</a> or view or print the{" "}
           <a href="/silvershield.htm" target="_blank">
             score
@@ -263,7 +263,7 @@ const Issue: FunctionComponent = () => (
           that exceed the limit of Public Domain. Some of the best were scores
           of Art Tatum Jazz arrangements of standard songs, they are sublime.
           You can see them below. Another are two special requests I received
-          from fans to produce MIDI's and wav files of a couple of 1960's,
+          from fans to produce MIDI\'s and wav files of a couple of 1960\'s,
           Vietnam era songs.{" "}
           <em>
             <strong>
