@@ -18,12 +18,19 @@ const issues: Issue[] = [
     h3: "The Final Parlorsongs Article",
     imgSrc: "swansongs-forindex.jpg",
   },
+  {
+    slug: "rivers-of-melody",
+    publishedOn: new Date("sept 2018"),
+    h2: "Rivers of Melody",
+    h3: "How Rivers Made America and Americans Made Music",
+    imgSrc: "riverboat-forindex.jpg",
+  },
 ];
 
 const IssuesListItem: FunctionComponent<Issue> = (props) => (
   <li className="border-solid border-b border-gray-300 hover:bg-gray-50">
     <a
-      href="issues/swan-song"
+      href={`issues/${props.slug}`}
       className="p-4 space-y-2 grid grid-cols-4 space-y-0 items-baseline"
     >
       <dl>
@@ -49,10 +56,7 @@ const IssuesListItem: FunctionComponent<Issue> = (props) => (
         </div>
 
         <div className="bg-red-500 relative overflow-hidden rounded-lg shadow-lg w-16 h-16">
-          <img
-            className="w-full h-full object-cover"
-            src="swansongs-forindex.jpg"
-          />
+          <img className="w-full h-full object-cover" src={props.imgSrc} />
         </div>
       </div>
     </a>

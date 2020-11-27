@@ -383,13 +383,7 @@ const Issue: FunctionComponent = () => (
           have supported us over the years. Thank you all from the bottom of my
           heart.
         </p>
-        <p>
-          Richard A. Reublin,
-          <br />
-          Founder of Parlorsongs.com
-          <br />
-          November, 2019
-        </p>
+        <p>Richard A. Reublin, Founder of Parlorsongs.com November, 2019</p>
         <p>Copyright 2019 by Richard A. Reublin.</p>
       </p>
     </article>
