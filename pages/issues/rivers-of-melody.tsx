@@ -196,7 +196,7 @@ const Issue: FunctionComponent = () => (
           MIDI
         </a>
         .
-        <blockquote className="my-8 font-mono">
+        <blockquote>
           [Verse] <br />
           Long, long ago, Someone I know <br />
           Had a little red canoe, <br />
@@ -249,16 +249,51 @@ const Issue: FunctionComponent = () => (
         when I get to that Swanee shore". Both of these songs feature
         banjo-strumming and reminiscences of a plantation life more typical of
         19th-century South Carolina than of among the swamps and small farms in
-        the coastal plain of south Georgia and north Florida. (Wikipedia) Listen
-        to the{" "}
+        the coastal plain of south Georgia and north Florida. Listen to the
         <a href="/blessswaneehome.mid" target="_blank">
-          midi,
+          MIDI,
         </a>{" "}
-        view and
-        <a href="/blessswaneehome.htm"> follow the score</a> and/or{" "}
-        <a href="/blessswaneehome-lyr.php" target="_blank">
-          read the lyrics
-        </a>
+        and{" "}
+        <blockquote>
+          1. <br />
+          Anyone gets lonesome, in a lonesome town, <br />
+          When the night shades gather 'roun', <br />
+          And the moon starts peepin' down; <br />
+          My poor heart just moans some, <br />
+          <br />
+          When I'm slumber boun; <br />
+          But before I hit the hay, <br />
+          There's a pray'r I love to say: <br />
+          <br />
+          [Chorus] <br />
+          Bless my Swanee River Home, <br />
+          Bless my ma and pa, <br />
+          Bless my heart I wanna roam, <br />
+          Where ever they are; <br />
+          <br />
+          The more I linger, The more I sigh, <br />
+          Oh! I could be so cheerful, <br />
+          With an earful of my Mammy's lullabye; <br />
+          <br />
+          Bless that little Dixie shack, <br />
+          Where the unshine gleams; <br />
+          Bless that train that takes me back, <br />
+          Each night in my dreams; <br />
+          <br />
+          Oh! Lord! I wanna offer, <br />
+          A little pray'r that's all my own; <br />
+          Won't you bless evry thing that's worth while blessing, <br />
+          in my Swanee River Home. <br />
+          Home. <br />
+          <br />
+          2. <br />
+          Ev'ry night I travel, straight for happiness, <br />
+          It's my mammy's sweet caress, <br />
+          Kind o' guides me there I guess; <br />
+          All my dreams unravel; <br />
+          On that dream express, 'Cause I hop into my berth, <br />
+          With the sweetest pray'r on earth: <br />
+        </blockquote>
         .
       </p>
       <h3>Old Folks at Home</h3>

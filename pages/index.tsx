@@ -21,6 +21,17 @@ export default function Home() {
             </h2>
           </div>
         </div>
+
+        <p className="my-8 max-w-screen-md mx-auto text-center text-gray-700">
+          The Parlor Songs Academy has been founded as a part of the Open
+          Educational Resources (OER) Movement. According to the American
+          Council on Education, “Higher education institutions worldwide are
+          joining an emerging movement to provide universal and free access to
+          digital educational content through OER”. You can learn at your own
+          pace by browsing through our over 130 articles about America's music
+          and read about the songs and narratives about the various aspects of
+          our music.
+        </p>
       </main>
     </div>
   );
