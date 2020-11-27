@@ -21,7 +21,7 @@ header {
 }
 
 article h3 {
-  @apply text-2xl font-display font-bold mt-8 mb-4 text-gray-800;
+  @apply text-2xl font-display font-bold pt-4 my-4 text-gray-800;
 }
 
 article p {
@@ -50,7 +50,11 @@ article.biographies img {
 }
 
 article blockquote {
-  @apply my-8 mx-auto max-w-max;
+  @apply my-8 mx-auto max-w-max border-l-4 border-gray-400 border-solid pl-4;
+}
+
+article.biographies blockquote p {
+  margin: 0;
 }
 
 html,

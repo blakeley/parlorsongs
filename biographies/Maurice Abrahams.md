@@ -1,0 +1,2 @@
+Maurice Abrahams was born in Russia in 1883 and died in NYC in 1931. He was a popular composer and lyricist, writing a number of popular songs including some we have featured in past issues such as The Pullman Porters On Parade in our [February, 2000 issue](http://www.parlorsongs.com/parlorsongs.com/archive/issues/0200/0200.html) about the artist E.H. Pfeiffer. Some of his other hits include, Hitchy Koo, 1912, Oh, You Million Dollar Doll, 1913 and Cowboy Joe. He started his own publishing company in 1923 and was married to the popular singer Belle Baker.
+

@@ -1,0 +1,2 @@
+This particular Anderson is difficult to pin down. There was a somgwriter William Robert or W. R. Anderson who flourished at the same time and who also was published by Whitmark. I suspect this is the same guy. Born in 1891, we know little else about him other than a scant few songs. Besides *Just Some One*, Anderson wrote: *Good Night Dear* (1908), Bring Me A Letter From My Old Home Town (1918), Take It From Me (1918) and Evening, My Love and You (1923).
+
