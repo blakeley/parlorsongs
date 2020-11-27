@@ -1,0 +1,2 @@
+Henry W. Armstrong (AKA Harry) (b. 1879, Sommerville, Mass., d. 1951, New York, NY) One does not often think of a prize fighter as a genteel lovers of the arts, but Armstrong is an exception. His varied career not only included his bout(s) as a pugilist but also included booking agent, producer, singer, pianist and of course composer. As a performer, Armstrong entertained in hospitals during the first world war and as well, performed in night clubs, radio and near the end of his life, even on TV. His biggest hit was *Sweet Adeline*, in 1903 with Richard H. Gerard.
+

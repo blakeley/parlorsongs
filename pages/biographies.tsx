@@ -71,7 +71,7 @@ const Page: FunctionComponent<{ files: File[] }> = ({ files }) => (
         <ol className="mb-32">
           {files.map((file) => (
             <li>
-              <a {...{ name: file.name }}></a>
+              <a {...({ name: file.name } as any)}></a>
               <h3>{file.name}</h3>
               <section>
                 <Markdown children={file.contents} />
