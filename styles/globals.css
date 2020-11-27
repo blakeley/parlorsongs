@@ -45,6 +45,10 @@ article figure img {
   margin: 0;
 }
 
+article.biographies img {
+  max-width: 6rem;
+}
+
 article blockquote {
   @apply my-8 mx-auto max-w-max;
 }
