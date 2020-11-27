@@ -500,11 +500,11 @@ const Issue: FunctionComponent = () => (
         .
       </p>
       <h3>Red River Valley</h3>
-      <img src="/redrivervalley.jpg" />
       <p>
         Words and Music by Unknown <br />
         Published circa 1870-90
       </p>
+      <img src="/redrivervalley.jpg" />
       <p>
         Though this song may most often be considered a &quot;country
         western&quot; song and expectations may be that the Red River Valley was
@@ -581,12 +581,14 @@ const Issue: FunctionComponent = () => (
         .
       </p>
       <p>
-        Endnotes (1) Doyle, Martin, The Source &ndash; How Rivers Made America
-        and America Remade Its Rivers, (W.W. Norton &amp; Co, New York-2018), p.
-        18 (2) Jefferson to Washington, 15 March 1784, in Thomas Jefferson
-        Papers, Library of Congress American Memory web site,
-        https://memory.loc.gov/ Shenandoah &ndash; Traditional (Composer
-        Unknown)
+        <b>Endnotes</b>
+        <br />
+        (1) Doyle, Martin, The Source &ndash; How Rivers Made America and
+        America Remade Its Rivers, (W.W. Norton &amp; Co, New York-2018), p. 18{" "}
+        <br />
+        (2) Jefferson to Washington, 15 March 1784, in Thomas Jefferson Papers,
+        Library of Congress American Memory web site, https://memory.loc.gov/
+        Shenandoah &ndash; Traditional (Composer Unknown)
       </p>
     </article>
   </div>
