@@ -1,12 +1,12 @@
+import Link from "next/link";
 import { FunctionComponent } from "react";
 
 const NavLink: FunctionComponent<{ href: string }> = ({ href, children }) => (
-  <a
-    href={href}
-    className="h-full px-4 flex justify-center items-center font-bold font-display hover:text-green-900 hover:bg-gray-50 tracking-wide"
-  >
-    {children}
-  </a>
+  <Link href={href}>
+    <a className="h-full px-4 flex justify-center items-center font-bold font-display hover:text-green-900 hover:bg-gray-50 tracking-wide">
+      {children}
+    </a>
+  </Link>
 );
 
 export const NavBar: FunctionComponent = () => (

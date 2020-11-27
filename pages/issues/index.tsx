@@ -1,4 +1,5 @@
 import Head from "next/head";
+import Link from "next/link";
 import { FunctionComponent } from "react";
 import { NavBar } from "../../components/NavBar";
 
@@ -29,37 +30,36 @@ const issues: Issue[] = [
 
 const IssuesListItem: FunctionComponent<Issue> = (props) => (
   <li className="border-solid border-b border-gray-300 hover:bg-gray-50">
-    <a
-      href={`issues/${props.slug}`}
-      className="p-4 space-y-2 grid grid-cols-4 space-y-0 items-baseline"
-    >
-      <dl>
-        <dt className="sr-only">Published on</dt>
-        <dd className="text-base leading-6 font-medium text-gray-500">
-          <time className="font-display">
-            {props.publishedOn.toLocaleDateString("en-US", {
-              month: "long",
-              year: "numeric",
-            })}
-          </time>
-        </dd>
-      </dl>
-      <div className="col-span-3 flex flex-row">
-        <div className="flex-1">
-          <h3 className="font-display text-2xl text-green-800 tracking-tight mb-2">
-            {props.h2}
-          </h3>
+    <Link href={`issues/${props.slug}`}>
+      <a className="p-4 space-y-2 grid grid-cols-4 space-y-0 items-baseline">
+        <dl>
+          <dt className="sr-only">Published on</dt>
+          <dd className="text-base leading-6 font-medium text-gray-500">
+            <time className="font-display">
+              {props.publishedOn.toLocaleDateString("en-US", {
+                month: "long",
+                year: "numeric",
+              })}
+            </time>
+          </dd>
+        </dl>
+        <div className="col-span-3 flex flex-row">
+          <div className="flex-1">
+            <h3 className="font-display text-2xl text-green-800 tracking-tight mb-2">
+              {props.h2}
+            </h3>
 
-          <h2 className="font-display text-xl text-gray-700 leading-4 tracking-tight">
-            {props.h3}
-          </h2>
-        </div>
+            <h2 className="font-display text-xl text-gray-700 leading-4 tracking-tight">
+              {props.h3}
+            </h2>
+          </div>
 
-        <div className="bg-red-500 relative overflow-hidden rounded-lg shadow-lg w-16 h-16">
-          <img className="w-full h-full object-cover" src={props.imgSrc} />
+          <div className="bg-red-500 relative overflow-hidden rounded-lg shadow-lg w-16 h-16">
+            <img className="w-full h-full object-cover" src={props.imgSrc} />
+          </div>
         </div>
-      </div>
-    </a>
+      </a>
+    </Link>
   </li>
 );
 
