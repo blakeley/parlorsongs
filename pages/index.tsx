@@ -17,7 +17,7 @@ export default function Home() {
               The <span className="text-green-700">Parlor Songs</span> academy
             </h1>
             <h2 className="text-4xl mt-4  mx-auto text-gray-800">
-              Preserving America\'s Popular Music Heritage
+              Preserving america's Popular Music Heritage
             </h2>
           </div>
         </div>
@@ -28,7 +28,7 @@ export default function Home() {
           Council on Education, “Higher education institutions worldwide are
           joining an emerging movement to provide universal and free access to
           digital educational content through OER”. You can learn at your own
-          pace by browsing through our over 130 articles about America\'s music
+          pace by browsing through our over 130 articles about america's music
           and read about the songs and narratives about the various aspects of
           our music.
         </p>

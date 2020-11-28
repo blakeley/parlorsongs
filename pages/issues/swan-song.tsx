@@ -53,7 +53,7 @@ const Issue: FunctionComponent = () => (
           initiated by Robert L. Maine who joined me as a partner in the web
           site\'s development and design way back in 1997. Over the years the
           site reached thousands of listeners, grew to include full score
-          visibility and detailed articles relating to aspects of America\'s
+          visibility and detailed articles relating to aspects of america's
           music. Later, Rich Beil, joined me and added yet new dimensions to the
           site with actual vocal performances of some of the songs, production
           of CD and a number of scholarly articles that elevated the site\'s
@@ -146,7 +146,7 @@ const Issue: FunctionComponent = () => (
         <p>
           {" "}
           First, three songs dedicated to the Valiant United States Coast Guard.
-          An often overlooked but heroic part of America\'s military. One of my
+          An often overlooked but heroic part of america's military. One of my
           grandchildren, Jack Redshaw proudly serves in the Coast Guard so this
           section is also dedicated to him and his shipmates who protect our
           waters and serve those in distress on the seas. The first is{" "}

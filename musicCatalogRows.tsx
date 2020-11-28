@@ -107,7 +107,7 @@ const a = [
   [
     "Afraid To Dream",
     "1937",
-    "Mack Gordon<br/>        Harry Revel",
+    "Mack Gordon         Harry Revel",
     "Gordon &amp; Revell",
     <>
       <a href="/issues/1998-7/jul98gallery.php">July 98, Gallery</a>
@@ -1392,7 +1392,7 @@ const b = [
   [
     "Blue Venetian Waters",
     "1937",
-    "Bronislaw Caper<br/>Walter Jurmann",
+    "Bronislaw Caper Walter Jurmann",
     "Gus Kahn",
     <>
       <a href="/issues/1998-7/jul98feature.php">July 98, Issue</a>
@@ -1790,7 +1790,7 @@ const c = [
     <a href="/issues/2000-2/2000-2.php">February, 00 Issue</a>,
   ],
   [
-    "Chariot Race, The<br/>(Ben Hur March)",
+    "Chariot Race, The (Ben Hur March)",
     "1894",
     "E.T.Paull",
     "None",
@@ -1885,7 +1885,7 @@ const c = [
   [
     "Clouds Will Soon Roll By, The ",
     "1932",
-    "Harry Woods, <br/>George Brown",
+    "Harry Woods,  George Brown",
     "Woods &amp; Brown",
     <>
       <a href="/issues/1998-6/jun98gallery.php">June 98, Gallery</a>
@@ -2011,7 +2011,7 @@ const c = [
     "Costa Rica",
     "1930",
     "Ernesto Lecuona",
-    "Harry Ruby,<br/>Sunny Skylar",
+    "Harry Ruby, Sunny Skylar",
     <a href="/issues/1998-7/jul98gallery.php">July 98, Gallery</a>,
   ],
   [
@@ -2024,7 +2024,7 @@ const c = [
   [
     "Cow-Cow Boogie",
     "1941",
-    "Don Raye,<br/> Gene DePaul, <br/>Benny Carter",
+    "Don Raye,  Gene DePaul,  Benny Carter",
     "composers",
     <a href="/issues/1998-6/jun98gallery.php">June 98, Gallery</a>,
   ],
@@ -4678,7 +4678,7 @@ const i = [
   [
     "I Should Care",
     "1932",
-    "Sammy Kahn, <br/>Axel Stordahl,<br/>Paul Weston",
+    "Sammy Kahn,  Axel Stordahl, Paul Weston",
     "composers",
     <>
       <a href="/issues/1998-7/jul98gallery.php">July 98, Gallery</a>
@@ -6705,7 +6705,7 @@ const m = [
   [
     "March Victorious",
     "1919",
-    "Elizabeth G. Black<br/>        arr. E.T. Paull",
+    "Elizabeth G. Black         arr. E.T. Paull",
     "None",
     <>
       <a href="/issues/1998-6/jun98feature.php">June 98, Featured</a>
@@ -9764,7 +9764,7 @@ const s = [
   [
     "Signal From Mars, A",
     "1901",
-    "Raymond Taylor<br/>        arr. E.T. Paull",
+    "Raymond Taylor         arr. E.T. Paull",
     "None",
     <>
       <a href="/issues/1998-6/jun98gallery.php">June 98, Featured</a>
@@ -10080,7 +10080,7 @@ const s = [
   [
     "Somebody's Lonely",
     "1926",
-    "Benny Davis,<br/>        Joe Gold",
+    "Benny Davis,         Joe Gold",
     "composers",
     <>
       <a href="/issues/1998-6/jun98gallery.php">June 98, Gallery</a>
@@ -11154,7 +11154,7 @@ const t = [
   [
     "Till Reveille",
     "1941",
-    "Stanley Cowan,<br/> Bobby Worth",
+    "Stanley Cowan,  Bobby Worth",
     "composers",
     <>
       <a href="/issues/1998-6/jun98gallery.php">June 98, Gallery</a>
