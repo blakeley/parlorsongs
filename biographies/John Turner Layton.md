@@ -1,2 +1,2 @@
-![](/images/turnerlayton.jpg)
+![](/turnerlayton.jpg)
 **John Turner Layton** was born in 1894 in Washington DC. One of the few successful Black composers of the period, he was teamed with the lyricist of *After You've Gone*, Harry Creamer in a vaudeville act. Both Creamer and Layton left the United States (due largely to constraints on them due to race) and settled in England where both enjoyed very successful careers. With Creamer he also wrote another enduring hit, *Way Down Yonder In New Orleans* in 1922 and *Dear Old Southland* in 1921. Layton died in 1978. 

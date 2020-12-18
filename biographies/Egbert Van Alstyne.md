@@ -1,4 +1,4 @@
-![](/images/evanalstyne.jpg)
+![](/evanalstyne.jpg)
 **Egbert Van Alstyne** (b. Chicago, Ill 1882 - d. Chicago, 1951) A musical prodigy, he played the organ at the Methodist Church in Marengo, Illinois when only seven! Schooled in the public school system in Chicago and at Cornell College in Iowa, he won a scholarship to the Chicago Musical College. After graduation, he toured as a pianist and director of stage shows and performed in vaudeville. In 1902 he went to New York and worked as a staff pianist for a publisher in Tin Pan Alley and began to devote himself to writing songs teamed with Harry Williams as his lyricist. The teams first success came in 1903 with *Navajo*, one of the earliest commercial songs to exploit American Indian themes. They wrote two more "Indian Songs"; *Cheyenne* in 1906 and *San Antonio* in 1907. In 1905 they produced one of the greatest songs of that early decade, *In The Shade Of The Old Apple Tree*, which sold several million copies. For several years, the team cranked out hit after hit and music for two Broadway musicals, *A Broken Doll* in 1909 and *Girlies* in 1910. 
 
 

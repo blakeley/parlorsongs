@@ -1,2 +1,2 @@
-![](/images/effiecanning.jpg)
+![](/effiecanning.jpg)
 **Effie Crockett** (pseudonym Effie Canning) (1857 - 1940) About all that any reference on the net has to say about Canning-Crockett is that; "she was an American actress and baby-sitter. She wrote and composed the song *Rock-a-Bye Baby* in 1872. I was about to name her as a one hit wonder but did manage to find a few other songs she wrote that were published by Chas. Blake in Boston. Blake published a folio of her works in 1887 that included; *Safely Rocked in Mother's Arms*, *Don't Tread on the Daisies* and *Tapping on the Panes*.

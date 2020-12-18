@@ -1,4 +1,4 @@
-![](/images/rwhiting.jpg)
+![](/rwhiting.jpg)
 **Richard Whiting** (b. 1891, Peoria, IL, d. 1938 Beverly Hills, CA) is one of America's greatest songwriters. He taught himself the piano and music theory and talked his father into publishing his first songs.He worked for Jerome Remick for a time and in 1912 became manager of Remick's Detroit office. He wrote many, many of the classic American songs we still know today. Till We Meet Again (Scorch format) is one of his earlier works. In 1919 he moved to New York where he wrote songs for musicals.Among his best known songs from he 20's is the great Breezin' Along With The Breeze and Sleepy Time Gal. Later hits included Beyond The Blue Horizon and The Good Ship Lollipop. He was the father of the great popular singers Margaret and Barbara Whiting. His melodies have been described as having a graceful and effortless style.
 
  

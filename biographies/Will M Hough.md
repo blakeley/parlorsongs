@@ -1,2 +1,2 @@
-![](/images/willhough.jpg)
+![](/willhough.jpg)
 **Will M. Hough** (1882 - 1962) Was educated at the University of Chicago and wrote material for vaudeville and Broadway productions. His best known work is *I Wonder Who's Kissing Her Now* with Will M. Hough and Joseph E. Howard (1909). He also wrote a number of books for stage productions that include; *The Goddess of Liberty* (1909), *The Land of Nod* (1907) and *A Modern Eve* (1915)

@@ -1,2 +1,2 @@
-![](/bios/ckharris/Harris1926sm.jpg)
+![](/Harris1926sm.jpg)
 **Charles Kassell Harris** was born in 1867 in Poughkipsie, NY and died in NYC in 1930. He lived for many years in Milwaukee and published many of his early songs there. His *After The Ball*, published in 1892 is generally considered to be the watershed song that started the popular song industry in earnest as a commercial juggernaught. Though Harris wrote many songs over the years, none ever rose to the level of popularity as *After The Ball*. See our in-depth biography of Harris for much more information.

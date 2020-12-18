@@ -1,4 +1,4 @@
-![](/images/danbryant.jpg)
+![](/danbryant.jpg)
 **Dan Bryant** (1833-1875) Bryant was christened Daniel Webster O'Bryant. He founded the Bryant Minstrel troupe and by the time this song was published had left minstrelsy and had taken to the stage to act in plays. Among the plays he performed in were, Handy Andy, Rory O'More, The Irish Emigrant and (of course) Pat Malloy. Appropriately, all of the plays he performed in had room for a few Irish songs for Bryant to sing. Here is what The New York Times had to say about his performances: July 27, 1865
 
 >"WALLACK's THEATRE. -- Mr., DAN BRYANT's appearance here last evening attracted one of the largest audiences we have ever seen within the walls of this popular establishment Mr. BRYANT is already so great a favorite in another sphere of art, that the audience, reinforced with the lieges thus obtained, was kindly not only to the gentleman himself, but to all his surroundings. As the surroundings were not of the best, they have every reason to be thankful to the lieges. 

@@ -1,2 +1,2 @@
-![](/images/williamdempster.jpg)
+![](/williamdempster.jpg)
 **William Richardson Dempster** (1809-1871) I've not found so much information about Dempster. He was a very popular performer cited as a "popular singer of Scottish ballads" who did live in Scotland on at least two occasions. Despite the lack of biographical information, he composed quite a few songs including; *The Blind Boy* (1842), *I'm Alone, All Alone*, *The May Queen*, *Let Us Love One Another* and of course, *The Irish Emigrant*. One of his works, *Cheer Boys, Cheer!* was recorded by the American Brass Quintet in 2005.

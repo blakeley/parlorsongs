@@ -1,2 +1,2 @@
-![](/images/gwmeyer.jpg)
+![](/gwmeyer.jpg)
 **George W. Meyer** (b. 1884 Boston, Mass.- d. 1959 New York, NY) was one of the more prolific composers of the period with many, many hits to his credit that spanned many years. Meyer's biggest hit was probably *For Me and My Gal* in 1917 but he also wrote many favorites that have lasted such as; *My Song Of The Nile*, *Lonesome*, *My Mother's Rosary* and the great novelty song *Where Did Robinson Crusoe Go With Friday on Saturday Night?*.

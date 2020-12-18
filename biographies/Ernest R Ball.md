@@ -1,6 +1,6 @@
 
 
-![](/images/ernestball.jpg)
+![](/ernestball.jpg)
 **Ernest R. Ball** (b. July 21, 1878 Cleveland, OH. d. May 3, 1927 Santa Ana, CA)
 Ball was precocious in music from the start. He was given music instruction at the Cleveland Conservatory, and as early as age 13 began giving music lessons to others. Today he is noted mostly as one of America's best loved composers of Irish songs and is often called the American Tosti (Francesco Paolo Tosti, 1846-1916, a prolific and talented Italian song composer and teacher.) Though he was famed as a composer of Irish tunes, he wrote many other "mainstream" songs, actually, many more than his "Irish" output. 
 

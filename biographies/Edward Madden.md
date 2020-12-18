@@ -1,2 +1,2 @@
-![](/images/edmadden.jpg)
+![](/edmadden.jpg)
 **Edward Madden** (b. 1878, New York City, d. 1952, Hollywood, CA.) was a charter member of ASCAP and a respected lyricist best remembered for a pair of moon songs"; *By The Light Of The Silvery Moon*, a 1909 collaboration with Gus Edwards, and *Moonlight Bay* a 1912 collaboration with renowned composer Percy Wenrich. Madden collaborated with a veritable who's who of American popular song composers including Theodore F. Morse, Harry Von Tilzer, Louis A. Hirsch and Jerome Kern. Madden was educated at Fordham University and was a writer for the great Fanny Brice and other singers as well. He founded his own publishing firm and enjoyed great success as a key member of the Tin Pan Alley inner circle.

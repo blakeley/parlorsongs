@@ -10,6 +10,6 @@ In 1840, his last dramatic piece, *The Fortunate Isles*, was produced at Covent 
 
 During his long career, Bishop produced over one hundred and twenty-five operas, operettas, ballets and other musical works. More than two thirds of his output was entirely his own the others being adaptations or collaborations with other composers or librettists. Unfortunately, it seems few if any of these works save Home Sweet Home have survived to be found in the modern repertory. 
 
-![](/images/bishpsgrave.jpg)Bishop died in 1855 and is buried at East Finchley Cemetery (formerly Saint Marylebone Finchley, London, England
+![](/bishpsgrave.jpg)Bishop died in 1855 and is buried at East Finchley Cemetery (formerly Saint Marylebone Finchley, London, England
 (image from http://www.findagrave.com )
 
