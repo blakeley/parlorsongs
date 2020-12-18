@@ -1,0 +1,2 @@
+
+**Burges Johnson** (B. 1880 - d. ??) has fared better in history than some of our composers, not perhaps so much as a song writer but as a poet and writer. Also a humorist, Johnson wrote a number of poems, limericks and other works. His works include titles such as; *Rhapsody On A Dog's Intelligence*, *Contentment*, *A Lyric of The Llama*, *The Lost Art of Profanity* and *The Funny Froggy Bubble Book* (with Ralph Mayhew). *The Funny Froggy Bubble Book* (1917) and a second issue, *The Second Bubble Book* (1918) were compilations of songs, poems and stories for children.

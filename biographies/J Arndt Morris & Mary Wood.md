@@ -1,0 +1,2 @@
+
+**J. Arndt Morris** & **Mary Wood** are two of our many creative composers and lyricists whose life story has become so obscure as to be nearly impossible to find. This song appeared in the New York American and Journal on Sunday November 29, 1903 as a music supplement. As with most of our newspaper music supplements, it has deteriorated badly and soon will be nothing more than a pile of dust.

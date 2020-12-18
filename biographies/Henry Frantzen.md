@@ -1,0 +1,2 @@
+
+**Henry Frantzen** (1850 - 1931) Is credited with a number of notable works including, *College Life March and Two Step* (1905) probably his most lasting work, *Motor King* (1910), and *Sing A Good Old Ragtime Song* (1909), also with Drislane. Frantzen in fact, seems to share the same fate as Drislane in that we do have records of his works, but little else seems to be recorded about the man and his life.

@@ -1,0 +1,5 @@
+
+**Anton Wallerstein**, (1813-1892) Wallerstein was a German violinist who also was a writer of popular dance music. He also wrote a number of songs that were popular at the time in Germany. Born in Dresden, he appeared as a violinist at an early age. It was said that his playing was very expressive however he became much more well known for his compositions. At sixteen he was a member of the Court band in Dresden and later went to Hanover to play in the Court band there. He resigned from that post in 1841. Sometime before that date he had begun composing dances and songs and contemporary sources say that he composed nearly 300 dances in addition to numerous songs and variations for violin and orchestra. His dance music "appealed to all grades of society" and it is said his music attained great popularity abroad as well as in Germany. (From The American History and Encyclopedia of Music, Vol. 2, 1908)
+
+
+ 

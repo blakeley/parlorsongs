@@ -1,0 +1,2 @@
+
+**Dave Reed Jr.** Little of Reed's life has been preserved for us. We do know that wrote at least one Broadway production, *The Catch of the Season*. The show opened at Daly's Theater on August 28, 1905 and closed November 25th after 93 performances. Among his other works are *Elisa*, *Listen* (1926 with Max Morath), *Sammy Sampson's Semmigambian Band* (1903), *Love Me, and the World is Mine!*(1906 with Ernest R. Ball)

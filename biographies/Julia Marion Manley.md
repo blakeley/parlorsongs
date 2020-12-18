@@ -1,0 +1,2 @@
+
+**Julia Marion Manley** as with many of the woman composers of the Tin Pan Alley era is nearly lost to us as far as any meaningful information about her life. I did manage to find one other work by her published as a newspaper supplement to the Chicago American on March 31, 1901. That song was *I Guess You'd Better Hush, Hush, Hush). Interestingly, some 19 years later, the same performer, Norma Whalley is on the cover. 

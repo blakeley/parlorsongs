@@ -1,0 +1,2 @@
+
+**Bert Grant** Despite a fairly large oeuvre of works, little can be found about the composer Bert Grant. We do know he wrote quite a few popular songs including *If I Knock The "L" Out of Kelly*, *When The Angelus Is Ringing*, *Arrah, Go On, I'm Gonna Go Back To Oregon* and *When You're Away*. It is puzzling that so little can be found either on the net or in our many references about him.

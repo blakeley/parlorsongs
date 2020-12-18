@@ -1,0 +1,2 @@
+
+**Madame Caroline Rivé**, in the decade of the 1850's, Rivé was stated to be "a dramatic singer of rare powers and a teacher unsurpassed in America." Besides this work, I've only found a record of one other song published by her; *The Music of the Foot Fall* (1865), however given her reputation I suspect she wrote many more songs. Interestingly, her daughter Julie Rivé-King born in 1857 gained more fame than the mother as a performer who also studied under Lizst and Reinecke. 

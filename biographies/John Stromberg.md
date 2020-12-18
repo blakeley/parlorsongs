@@ -1,0 +1,5 @@
+
+**John Stromberg** (b. 1853, New York City - d. 1902, New York) was a popular composer during the 1890's and worked almost exclusively with lyricist Edgar Smith. Together they wrote a number ofshows for Webber and Fields stage works including, T*he Geezer* (1896), *The Glad Hand* (1897), *Hurley-Burley* (1898) and *Whirl-i-gig* (1899). Famed performer Lillian Russell introduced several of his songs in that 1899 production including *When Chloe Sings A Song*. Stromberg teamed up with Harry B. Smith to write several popular songs including, *I'm Making A Bid for Popularity* (1899), *The Kissing Bug* (1899), *My Josephine* (1899) and *De Cake Walk Queen* (1900). Unfortunately, little of Stombergs music is heard today and none seems to have made it into the lasting hit category. Stromberg died by his own hand in 1902. That same year, after his death, Russell introduced his previously unperformed song *Come Down, Ma Evenin' Star* in a performance of *Twirly-Whirly*. 
+
+
+ 

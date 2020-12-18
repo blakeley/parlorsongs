@@ -1,0 +1,13 @@
+
+**Mary Earl** (1862-1932). Back in 1998, I said; "After researchingMary Earl , I'm wondering exactly what does a woman composer have to do to merit mention as an important, even unimportant, songwriter in America? Again, we have a successful composer who wrote a number of popular works who has been virtually snubbed by compilers of American music history. In addition to *Love Bird*, *Dreamy Alabama* and *Beautiful Ohio*. Earl also wrote *My sweetheart is somewhere in France* (1917). I hope that someone, somewhere with the resources can correct these grievous oversights and capture the lost heritage of these fine composers and songwriters before it is gone forever."
+Someone did! One of our helpful readers, David Meyers from Columbus Ohio's Columbus Senior Musicians Hall Of Fame, sent us a kind note identifying the "real" Mary earl. Mary Earl was a pen name for Robert A. "Bobo" King (b. Sept. 20, 1862 New York, NY, d. April 13, 1932 New York, NY) born Robert Keiser. At only age six, Robert was already taking piano lessons. He took a job in Ditson's music store as a young boy. A little later, Leo Feist, the Tin Pan Alley publisher, hired the younster, and before long, he was writing pop songs. In 1903, he had his very first hit song with "Anona".
+
+>King was one of those truly prolific composers whose output is not counted. 
+He wrote songs under his own name, under pseudonyms (very often a feminine 
+name), and even anonymously! As a result, there is now no way to estimate 
+his total output.
+
+During WW1, King, like other composers, wrote inspirational war songs. Among them, we find: *Lafayette, We Hear You Calling* and *When the Boys Come Home*. In 1918, he went to work for Shapiro-Bernstein Music Publishers under a contract to produce 4 songs per month. Two of the songs he composed under this contract were big hits: the 1918 *Beautiful Ohio*, with lyric by Ballard Smith and his 1919 *Dreamy Alabama*, words and lyric by King. ( both published under the pseudonym of Mary Earl.)
+Some of the other songs that are directly traceable to King are: *Beautiful Hawaii*, *In Old Manila*, *Isle Of Paradise*, *Hawaiian Smiles*, *I Ain't Nobody's Darling*, *Why DiId I Kiss That Girl*, *Just Like a Rainbow*, *Apple Blossoms*, *I Scream, You Scream*, *Ain't My Baby Grand* and *Moonlight on the Colorado*.
+During the course of his career, he also composed various concert pieces including Gavottes; Polkas; Marches, and Waltzes. (Many thanks to David for this information, see his Columbus (Ohio) Musicians site at: http://seniormusicians.homestead.com/CSMHOF.html) 
+That said, I can't help but wonder why in the 1800's when male composers were ruling the keyboards and women composers were ignored, a man would take a woman's name as a pseudonym?

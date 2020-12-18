@@ -1,0 +1,2 @@
+
+**James Kendis** (b. 1883, St. Paul, MN, d. 1946, Jamaica, NY) had some of his greatest success in his collaborations with James Brockman with whom he composed his greatest hit, *I'm Forever Blowing Bubbles*. Kendis formed his own publishing company, Kendis Music Company. Some of his other hits not collaborated with Brockman include, *If I Had My Way*, *Angel Eyes*, and *Come Out Of The Kitchen, Mary Ann*.

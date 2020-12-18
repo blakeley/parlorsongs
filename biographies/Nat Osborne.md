@@ -1,0 +1,2 @@
+
+**Nat Osborne** (b.? - d?) I'm a little surprised that I can find no meaningful biographical data on Osborne given his relatively robust publishing credits. Among his works published are: *Bow-Wow Blues* (1921), *Here's Your Hat*, *What's Your Hurry?* (1903), *Another Good Man Gone Wrong* (19??), *You Wanted Someone To Play With* (1929) and *Take Me Back To The Garden Of Love* (1911). Osborne collaborated with a number of other major songwriters including Cliff Freind and Ballard MacDonald. 

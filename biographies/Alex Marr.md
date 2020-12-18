@@ -1,0 +1,2 @@
+
+**Alex Marr** is another off the many enigmas from the early days of music in America, by him. In 1921 he published *Who's That Pretty Baby?* in collaboration with Bobby Heath. His partner on this work, Bernie Grossman collaborated on a few other songs including at least one other war song, *We're Going Over*.

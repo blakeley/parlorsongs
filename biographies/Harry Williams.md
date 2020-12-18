@@ -1,0 +1,4 @@
+
+**Harry Williams** (b. 1879, Minn. - d. 1922, Calif.) Williams is considered an important early Tin Pan Alley lyricist who collaborated with several of the greatest composers of the time including Niel Moret, Jean Schwartz and most frequently with Egbert Van Alstyne. He also collaborated on several Broadway scores including *A Yankee Circus On Mars* (1905), *Girlies* (1910) and *A Broken Idol* (1909). He began his musical industry career in vaudeville with Van Alstyne and then they began writing songs together. Williams formed his own publishing company and also became a director of silent movies in 1914. Among his most important and lasting hits are; *In The Shade Of The Old Apple Tree*, *Goodnight Ladies*, *It's A Long Way To Tipperary* and *Mickey* (Essential facts from Kinkle, V. 3, p. 1960)
+
+ 

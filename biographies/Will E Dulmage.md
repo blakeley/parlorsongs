@@ -1,0 +1,2 @@
+
+**Will E. Dulmage** (1883–1953) Songwriter ("Holding Hands"), composer and publisher, educated in high school and in private music study. He was a staff member and later an executive of a Detriot, Michigan publishing company. Joining ASCAP in 1946, his other popular-song compositions include *When It's Night Time in Nevada*, *Faded Love Letters*, *On the Highway to Galilee*, *Golden City* and *Tenderly Think of Me*. He wrote film soundtracks for The *Gene Autry Show* (TV series), *Night Time in Nevada* (1948) and *The Black Rider* (1950) (From IMDB)

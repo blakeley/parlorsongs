@@ -1,0 +1,2 @@
+
+**John Wesley Hanson** (1823 - 1901) a Bostonian who was a writer, newspaper editor and poet. A pastor as well, Hanson served as chaplain of the 6th Massachusetts regiment and served as army correspondent of the Boston Journal and the New York Tribune. His writings included a number of secular works as well as Biblical scholarly works. Some of his poetry was used as lyrics for a number of songs in the mid 19th century.

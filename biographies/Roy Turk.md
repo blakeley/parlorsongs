@@ -1,0 +1,8 @@
+
+**Roy Turk** was born in New York City on September 20, 1892. He attended City College, and during World War I he served in the United States Navy. After the war, be began writing song lyrics, including special material for such successful vaudeville performers as Rock & White, Nora Bayes and Sophie Tucker. He then became a staff writer for music publishers on Tin Pan Alley, and later went to Hollywood where he wrote song lyrics for films. 
+Among his collaborators were Harry Akst, George Meyer, Charles Tobias, Arthur Johnston, Maceo Pinkard, and J. Russel Robinson. From 1928 through 1933, he worked especially closely with Fred Ahlert, with whom he had many popular successes. Probably his best known song is *Mean To Me*, written in 1928 to music by Ahlert, which has become a jazz standard, memorably recorded by Billie Holiday and others. 
+Other successes include *I'll Get By* (1928), *Walkin' My Baby Back Home* (1931), *I Don't Know Why (I Love You Like I Do)* (1931), *Love, You Funny Thing* (1932), *Beale Street Mama* (1932) and *Aggravatin' Pappa* (1933) which was a 1933 hit for Sophie Tucker. With additional lyrics by Bing Crosby and music by Fred Ahlert, *Where The Blue Of The Night Meets The Gold Of The Day* (1931) became famous as Bing Crosby's theme song. 
+Roy Turk died in Hollywood, California on November 30, 1934, However, his songs have proven to be timeless - in 1960, Colonel Parker convinced Elvis Presley to record a song written in 1927 by Roy Turk and Lou Handman. The song was *Are You Lonesome Tonight* and became one of Presley's greatest hits. ( From the songwriter's Hall of Fame biography of Roy Turk)
+
+
+ 

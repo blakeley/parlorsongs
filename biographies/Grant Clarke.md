@@ -1,0 +1,2 @@
+
+**Grant Clarke** ( b. 1891, Akron, OH - d. 1931, California) who was also a major hit lyricist from the period. Clarke wrote material for such greats as Bert Williams and Fanny Brice. He was a publisher and also a staff writer for several NY music publishers. His hits include a number of classics including *Am I Blue?* and *Second Hand Rose*. 

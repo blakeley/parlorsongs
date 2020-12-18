@@ -1,0 +1,3 @@
+
+
+**Henry Blossom** (b. 1866, St. Louis, MO, d. 1919 New York City) Blossom is best known for his one lasting hit *The Streets Of New York* ("East side, West side, all around the town.") from the 1906 production *The Red Mill*, also in collaboration with Victor Herbert. Blossom was primarily a librettist and lyricist in the musical world but his original profession was that of an insurance broker. His *Kiss Me Again*  was from the show *Mlle. Modiste*, first staged in 1905. Blossom wrote the libretto (book) for no less than sixteen shows, with his last, *The Velvet Lady*, staged shortly before his death in 1919. Some of Blossom's works have been performed as recently as 1981. 

@@ -1,0 +1,2 @@
+
+**Edward Laska** ( dates unknown) Laska, a composer and lyricist is probably most famous for his prohibition era hit, *The Alcoholic Blues* (1919). However he wrote many other songs, several in collaboration with some of Tin Pan Alley's greatest lyricists including several with Jerome Kern. Laska also wrote at least one Broadway musical, *We've Got to Have Money*, staged in 1923. Among his other works are; *The Landlord Blues* (1919), *How'd You Like to Spoon With Me?* (1905) and *Do Something* (1917)

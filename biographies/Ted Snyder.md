@@ -1,0 +1,9 @@
+
+**Ted Snyder** (b. 1881, Freeport, Illinois d. 1965, Hollywood, CA) Ted Snyder is the person who gave Irving Berlin his start in the music business by hiring him in 1909 as a song plugger for his publishing company. But Snyder is also recalled as a composer in his own right who wrote hits such as *The Sheik of Araby* (1921) and *Who's Sorry Now?* (1923). 
+Little is known of Ted's early life, other than he attended the public schools in Boscobel, WI., and as a very young man, he posted theater bills for a living. Later, he was a cafe pianist, and then a staff pianist and song plugger in Chicago and New York music publishing houses. Like Berlin, his first publications came in 1907 with his first song *There's a Girl in This World for Every Boy*, with lyrics Will D. Cobb. Snyder wrote a number of other tunes in collaboration with other important lyricists of the day and in 1909 he began his association with Berlin. Some of their first tunes included, *Sweet Italian Love*, *Kiss Me, My Honey, Kiss Me*, and *Next To Your Mother, Who Do You Love?* as well as 1910's *That Beautiful Rag*.
+In 1913, Irving Berlin was writing his own melodies, as well as his own lyrics and Snyder's firm is re-organized and is called, Waterson, Berlin and Snyder. Ted Snyder also continued writing his own melodies, often with other lyricists such as Bert Kalmar and Edgar Leslie. Among the songs he wrote with Kalmar and/or Leslie are: *Moonlight on the Rhine*, *In The Land of Harmony* and *The Ghost of the Violin*. From the end of the first World War till 1930, Snyder continued writing songs with other talented lyricists. 
+In 1930, Ted Snyder retired from the songwriting business, settled in Hollywood, CA., and went into the restaurant business. He died in Hollywood. He is a member of the Songwriters' Hall of Fame.(Adapted from kinkle, pp 1784-85)
+
+
+
+ 

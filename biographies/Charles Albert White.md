@@ -1,0 +1,4 @@
+
+**Charles Albert White** was born in Boston in 1830 and died there in 1892. Clearly one of America's earliest popular music composers, White also was an important publisher, forming the White-Smith Publishing Company with W. Frank Smith and John F. Perry in Boston around 1867. Besides his wonderful children's duet, *Two Little Birds Are We* in 1881, White wrote *The Widow in the Cottage by the Seashore* (1868), *Come Birdie* (1870), *I'se Gwine Back To Dixie*, *The President Cleveland March* (1883) and *Marguerite* in 1883, and *Please Sell No More Drink To My Father* (1884) . (Claghorn, p. 470)
+
+ 

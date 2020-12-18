@@ -1,0 +1,2 @@
+
+**Frank H. Grey** was a songwriter and a writer of Broadway productions as well. We know of at least three Broadway shows written by him in the period from 1922 to 1927; *Sue Dear* (1922), *The Matinee Girl* (1926) and *Happy* (1927). We also know that he opten published works in the Etude music magazine at least up through 1933. I've been unable to locate any other information on Grey or about other specific song titles by him at this time.

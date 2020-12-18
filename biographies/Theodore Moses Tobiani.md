@@ -1,0 +1,5 @@
+
+**Theodore Moses Tobiani** (b. Hamburg, Germany, 1855 - d. New York, 1933) though born in Germany, became a notable American composer and arranger. He was an accomplished violinist who was performing in concert by age ten. His family brought him to the USA when he was a child but he later returned to Europe to futher his musical education. In 1870 he returned to the US and worked as a composer and performer in various theaters in Philadelphia. Tobiani composed over 550 works and made over 4500 arrangements! Many of his works were arranged or published under the pseudonyms Florence Reed, Andrew Herman and Theodore Moses. Of all his works, *Hearts and Flowers* is his only enduring original popular song composition however, his band arrangements continue to be played at traditional band concerts. 
+
+
+ 

@@ -1,0 +1,5 @@
+
+**James Thornton** (1861 - 1938) Born in Liverpool, England, Thornton came to America early in life where he made his first mark in entertainment as a part of a Vaudeville team comprised of himself, his wife Bonnie (born Lizzie Cox) and Charlie Lawlor. Thornton wrote the songs for the group and Bonnie was the primary songstress who plugged his songs. Thornton was an alcoholic who would squander their money so Bonnie always collected his pay at the stage door before James could get his hands on it. Thornton's most famous and lasting hit was *When You Were Sweet Sixteen* written in 1898. Aside from writing words and music for a couple of stage productions, Thornton's other songs of note were; *My Sweetheart's The Man In The Moon* (1898), *Maggie Mooney* (1894), *On The Benches In The Park* (1896), *It Don't Seem Like The Same Old Smile* (1896) and *There's A Little Star Shining For You* in 1897.
+
+
+ 

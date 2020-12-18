@@ -1,0 +1,2 @@
+
+**Frank Howard** as is the case with almost all of the pre 1900's composers, is elusive. I've found no biographical facts to share with you but he is credited with quite a few works from as early as 1848 through 1889. The majority of his works seem to have been published in the 1860's. Among his published songs are; *Little Bare-foot* (undated, 19th century), *Uncle Tom's Glimpse of Glory* (1852), *Golden Leaves of Autumn* (1868), *Who Says The Darkies Won't Fight?* (1862), *Profit and Loss* (1866) and *When The Robins Nest Again* (1883).

@@ -1,0 +1,4 @@
+
+**W. R. Williams** I've found no biographical information on Williams which is a bit of a puzzle for he was lyricist for quite a few popular songs of the period. He collaborated with some of the best composers such as Walter Blaufuss and George Cobb as lyricist but most of his work was done with Will Rossiter (the publisher) as composer. *Would You Care If We Were Parted* is the only work I've found where he also wrote the music. Among his other credits are: *Ev'ry Day* (1918), *Oh! You Georgia Rose* (1912), *Pretty Little Maid of Cherokee* (1909), *You're All I Had* (1913), *I'd Love To Live In Loveland With A Girl Like You* (1910) and *Don't You Remember The Time?* (1919).
+
+ 

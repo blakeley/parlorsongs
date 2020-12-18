@@ -1,0 +1,2 @@
+
+**William Harold Neidlinger** (1863 - 1924) was born in Brooklyn, New York and was perhaps best known for his more lofty works as a composer. He also was a prominent conductor and respected teacher. Besides *Sweet Miss Mary* (1914) he also wrote *The Birthday of a King* (1890), *Spirit of God* and a cantata *Prayer, Promise and Praise*.

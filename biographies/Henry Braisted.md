@@ -1,0 +1,2 @@
+
+**Stanley Carter** and **Henry Braisted** are another pair of "lost" songwriters. Both are credited with a few other songs written together; *The Girl I Loved In Sunny Tennessee* published in 1899, *You're Not The Only Pebble On The Beach* (18??), *Whisper Your Mother's Name* (18??), *At The Cost of a Woman's Heart* (18??), *The Sporty Widow Brown* (18??) and *The Maiden Didn't Know A Single Thing* in 1895.  

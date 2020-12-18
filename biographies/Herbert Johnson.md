@@ -1,0 +1,2 @@
+
+**Herbert Johnson** (1857 - 1904) *Ave Maria* may have been one of the last songs written by Johnson for he died the year after its publication. We know that he wrote many other hyms and sacred songs, many of which are stunning such as *Ave Maria* and *Face To Face* yet very little seems to have been retained about his entire output and life. There also appears to be some evidence of a few secular songs by Johnson although a catalog of his output seems to be lacking. 

@@ -1,0 +1,2 @@
+
+**Herman Paley** (dates unknown) Though Paley is credited with quite a few (at least 28) songs from the early Tin Pan Alley era it seems all that we can find about him are these song credits: *Besides Sweet Little Buttercup*, in 1917 Paley wrote the music for; *I Can Hear The Ukeleles Calling* (1916), *Down South* (1917), *Don't Cry Dolly Grey* (1916), *Sail On To Ceylon* (1906), *Billy* (*I Always Dream of Bill*) (1911) and *Good Advice* (1906). Many of his songs were in collaboration with notable TPA composers and lyricists.

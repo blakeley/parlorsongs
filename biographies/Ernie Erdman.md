@@ -1,0 +1,2 @@
+
+**Ernie Erdman** wrote a large number of popular hits in the early 20th century, many of them with lyricists Roger Lewis and Gus Kahn. Among his greatest hits are *The Hours I spent With Thee*, (1915) with Roger Lewis , *Tee Pee Blues*, (1922), *That Peculiar Rag*, (1910) lyrics F.M. Fagan, *Toot-Toot-Tootsie (Goo'bye)* (1922) with Gus Kahn and *Nobody's Sweetheart* in 1923, also with Gus Kahn.

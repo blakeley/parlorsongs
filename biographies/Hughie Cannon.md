@@ -1,0 +1,2 @@
+
+**Hughie Cannon**, an American composer from Detroit (b. Detroit, 1877 - d. Toledo, OH, 1912) was a pianist for many vaudeville performers. Next to *Bill Baily*, his other greatest hit was *He Done Me Wrong*, written in 1904 for the musical *Frankie and Johnny*. Cannon also wrote *Just Because She Made Dem Goo-Goo Eyes* with John Queen in 1900 and *I Hates To Get Up Early In The Morning* in 1901 also in collaboration with Queen. 

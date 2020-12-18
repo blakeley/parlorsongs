@@ -1,0 +1,3 @@
+
+![](/bios/cjbond/bond-c.gif)
+**Carrie Jacobs-Bond** suffered many tragedies in her life but managed to overcome them all through courage and determination. Her life is inspirational and her ability to overcome the odds made her one of America's most loved composers. We've featured many of her works on ParlorSongs and still have many more to present. We recommend you spend the time to learn much more about this remarkable woman by visiting our [in depth biography](/bios/cjbond/cjbond.php) of her and our June, 2000 feature on her music. For even more of her songs we've published, use our search page and search for "Carrie Jacobs-Bond." 

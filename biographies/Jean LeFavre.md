@@ -1,0 +1,2 @@
+
+**Jean LeFavre** (dates unknown) LeFavre seemes to have been exclusively the lyricist for works by W.C. Polla as all references to works by LeFavre are also composed by Polla with *Dear Heart* (1919 Scorch format), *Buddy* (1919) and *My Sunshine Rose* (1920) topping all lists. Few if any other works by LeFavre can be found.  

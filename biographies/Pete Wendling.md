@@ -1,0 +1,4 @@
+
+**Pete Wendling** (b. June 6, 1888, d. April 1974) Wendling was one of the true Tin Pan Alley type of musicians, a composer and lyricist. Between the years 1919 to 1929, he made a great many piano rolls, for the player pianos that were then in vogue. Over his career, he produced a huge number of songs, written with a great many different collaborators. Among his hits are; *He Loves It* (1922), *Red Lips, Kiss My Blues Away*, *Yaka Hula, Hickey Doola*, *I'm Growing Fonder of You*, *Oh What A Pal Was Mary*, *How Long Has This Been Going On*, and *Crying Myself To Sleep*. (adapted from a biography at the tunesmiths database)
+
+ 

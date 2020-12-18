@@ -1,0 +1,2 @@
+
+**Stanley Murphy** was born in 1875 in Dublin, Ireland and died in 1919 in New York. Known mostly as a lyricist, Murphy did manage to compose a number of songs as well that were successful After his family emmigrated to America, Murphy became a US citizen and started a successful career as a songwriter. His most famous work is *Put On Your Old Grey Bonnet* from 1909 with music by Percy Wenrich. Among his other hits are; *Be My Little Baby Bumble Bee* (1912) , *Malinda* (1912) and *Sugar Moon* (1910), also with Wenrich.

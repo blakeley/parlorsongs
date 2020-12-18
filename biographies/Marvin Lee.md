@@ -1,0 +1,2 @@
+
+**Marvin Lee**, Little is published about Marvin Lee. We do know he wrote both words and music to the 1917 song *Livery Stable Blues* which is distinguised by having been recorded by the Original Dixieland Band and W.C. Handy's Orchestra. That song was briefly revived in 1938 by Bunny Berigan and his band. 

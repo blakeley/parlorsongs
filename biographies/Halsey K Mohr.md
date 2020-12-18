@@ -1,0 +1,2 @@
+
+**Halsey K. Mohr** was a moderately successful composer of the period. He wrote *Piney Ridge* in 1915 with Ballard MacDonald and *They're Wearing 'Em Higher In Hawaii*, in 1916, a great comedy song that was very popular with vaudevillians including the great Eddie Cantor and Al Jolson. During the earlier years of the war while antiwar sentiment was high, Mohr was one of the few composers who wrote patriotic, pro-war music with several songs to his credit such as Played by A Military Band in 1915

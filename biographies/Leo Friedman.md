@@ -1,0 +1,2 @@
+
+**Leo Friedman** was born in 1869 in Elgin, Illionois and died in 1927 in Chicago. His major all-time hit was *Let Me Call You Sweetheart* in 1910 with Beth Slater Whitson. He also wrote the hit *Coon! Coon! Coon!* in 1901 which was a popular vaudeville and minstrel tune. In 1908, also in collaboration with Whitson, he produced *Meet Me Tonight In Dreamland*, a huge hit in its time. As with many of the greatest hits of the era, Judy Garland performed it in the 1949 film, *The Good Old Summertime*.

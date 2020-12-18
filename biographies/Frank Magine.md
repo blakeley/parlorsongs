@@ -1,0 +1,2 @@
+
+**Frank Magine** History has not been kind to Magine for little can be found about him. Magine had one other megahit besides the 1922 song *Dreamy Melody*, *Save The Last Dance For Me* in 1931. This is not the 1960 song by the Drifters. In our very first Parlor Songs edition in October of 1997, we featured one other Magine song, *Venetian Moon* from 1919 (MIDI).

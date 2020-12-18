@@ -1,0 +1,3 @@
+
+
+**Otto Bonnell** though mentioned often in musical contexts, it is almost always in the context of his writing of this arrangement of Turkey in the Straw. It seems that most of his lasting works were arrangements rather than outright original composition. He arranged *The Cat Came Back* in 1893 for Harry S. Miller and that same year, *Divorced* with Charles Moreland. We found at least two songs he wrote that were published. In 1891 Bonnell wrote the music for *She's More Than 7* with W.C. Robey's lyrics. In 1892, he wrote *The Man In The Moon May Be Looking* with John A. Fraser Jr. I've been unable to find any biographical data on Bonnell. 

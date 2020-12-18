@@ -1,0 +1,4 @@
+
+**Kathleen O'Neil**. Kathleen was an American-born daugher of Irish immigrants in New York, probably born in 1852. She was later better known as a dancer rather than a singer under the name "Kitty O'Neil" and died in Buffalo in 1893. 
+At the time she was singing *No Irish Need Apply*, she was only about ten years old and a newly discovered protegee of the famous variety showman Tony Pastor. Pastor had a habit of visting the English music halls and bringing songs back to New York, so he probably gave this obviously English song to Kathleen and credited her as the composer in order to build up her name. 
+As "Kitty O'Neil" she became the most famous variety "jig dancer" of the 1870s and 1880s, performing most frequently in the New York theaters run by Josh Hart, Tony Pastor, Ned Harrigan and Harry Miner. She also toured the variety circuit as far afield as San Francisco. 

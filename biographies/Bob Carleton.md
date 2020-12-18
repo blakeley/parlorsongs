@@ -1,0 +1,2 @@
+
+**Bob Carleton** (1896 - 1956) Other than *Ja-Da*, Carleton published at least three other songs during his career, *Struttin' Jim* in 1923, *Teasin'* in 1922 which enjoyed a popularity similar to *Ja-Da* as a jazz work and was regularly played and recorded by a number of bands of the jazz age, and a late life hit, *Where The Blues Were Born In New Orleans* in 1947. The latter was introduced by Louis Armstrong and his band in the film *New Orleans* and also on record. Phil Harris also featured a version on record and radio. 

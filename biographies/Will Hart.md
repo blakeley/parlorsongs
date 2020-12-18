@@ -1,0 +1,2 @@
+
+**Will Hart** (William J. ) (1866 - 1943) is nearly lost to us as far as information about his life and work. We do know of a few other songs written by him; *As We Sat on a Rock, in Little Rock, Arkansaw* (1916 with Harry Tobias), *Honolulu Cabaret* (1916 with Lew Hays), *She'll Miss Me Most of All* (1918 with Ed Nelson), *Kiss Me Pretty* (1917 with Wm. J. Kruger), *Follow Me To Germany and Victory* (1918 with Ed. Nelson), *Belgian Rose* (1917 with Ed Nelson) and of course *When Yankee Doodle Learns To Parlez Vous Francais* also with Nelson in 1917.

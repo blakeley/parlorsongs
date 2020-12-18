@@ -1,0 +1,2 @@
+
+**Uriel Davis**, cited by one website as the "Dance Master," Davis wrote a number of works that were based on dance fads of the 1910s. At least two of his works were original dances for which he wrote the music; T*he Davis Foxtrot* (1914), and T*he Horse Trot* (1912.) Among his other dance works are, *One Wonderful Night* and *Hesitation Waltz* (1914.) He also is credited with a few songs, among them includes *Broadway Is My Home Sweet Home* (1915)

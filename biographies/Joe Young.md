@@ -1,0 +1,5 @@
+
+**Joe Young** (b. 1889, New York, N. Y., d. 1939, New York, N. Y. )
+Joe Young was most active from 1911 through the late 1930's. Joe began his career working as a singer-songplugger for various music publishers. During WW1, he entertained the U.S. Troops. Starting in 1916, he and co-lyricist Sam M. Lewis worked as a team up until 1930. Among his earliest lyrics (without Lewis) included: *Don't Blame It All On Broadway*; *When The Angelus Was Ringing*; *Yaaka Hula, Hickey Dula*, written with Pete Wendling & Ray Goetz and the great novelty song *Where Did Robinson Crusoe Go With Friday on Saturday Night?* an Al Jolson favorite. In 1930, Young and Lewis collaborated with composer Harry Warren on an early talking motion picture *Spring is Here*. It was one of the Young and Lewis team's last projects together. From 1930 on, Young mostly wrote lyrics by himself and continued writing nearly to his death with his last known songs published around 1935. Joe Young is a member of the Songwriters' Hall of Fame.
+
+ 

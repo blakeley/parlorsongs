@@ -1,0 +1,2 @@
+
+**Seymour Furth** (dates unknown) Furth was a writer of music and Broadway productions including the fabulous play, *Bringing Up Father* in 1925, the 1907 edition of *The Ziefeld Follies*, *The Mimic World* in 1908 and *Nearly a Hero*, also in 1908. Among his other works are the songs *It's Nice To Be Nice, To A Nice Little Girl Like You*, *I'm Looking For The Man That Wrote 'The Merry Widow Waltz*' in 1908, *Budweiser's A Friend Of Mine* in 1909 and *That Espagnola Swing* in 1910.

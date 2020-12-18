@@ -1,0 +1,2 @@
+
+**Charles Hoyt** was a very popular composer whose most lasting hit is *The Bowery* from 1892. That song was later used in the 1945 film *Sunbonnet Sue* and was the basis for a ballet sequence in the John Phillip Sousa biographical film *The Stars and Stripes Forever*. Born in 1860 in Concord,NH, Hoyt was most well known as a playwright and in fact, this song is from his *A Stranger In New York*. He wrote a number of hit plays, mostly farces and as you can see from these lyrics, had a rather acerbic wit. 

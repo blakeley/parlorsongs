@@ -1,0 +1,2 @@
+
+**John Hopkins Densmore** (1880 - 1943) Densmore attended college at Harvard (1904) where he wrote *Veritas*, "the Harvard football song" which has since been replaced as the primary song, *Ten Thousand Men*. His commercial songs include *April*, *If God Left Only You* and *I Know Where A Garden Grows*.

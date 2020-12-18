@@ -1,0 +1,7 @@
+
+**Oley Speaks** (b. June 28, 1874, Canal Winchester, OH, d. Aug. 27, 1948, New York, N.Y.) As a young man, Speaks was a railway clerk in the Columbus, Ohio station. He then decided to follow a career in music and took lessons from such teachers as W. Macfarlane; Karl Dufft; Emma Thursby; Armour Galloway; and Max Spicker. He became a baritone soloist in a Columbus church, but in 1898, he settled in New York City. He was the baritone soloist at the Church of the Divine Paternity until 1901, and from 1901 until 1906, at the St. Thomas' Church. During this period, he also pursued a successful career as a singer, touring the U.S.giving recitals and also appearing in oratorios. He also wrote many 'art' songs, which for many years, were unsuccessful. His first published song was *Thou Gazest at the Stars*. 
+Speaks composed over 250 songs, among them; *The Bells of Youth*, *Fuzzy Wuzzy*, *When The Boys Come Home* and *Life's Twilight*. His greatest successes, each selling over a million copies of sheet music were *On The Road To Mandalay*, *Morning* (1910), lyric by Frank Stanton and his 1914 *Sylvia*, with lyric Clinton Scollard. Speaks was one of those amazingly skilled composers who often wrote tunes at a single sitting. His technique was to fully memorize the lyric, then piece together a suitable melody while sitting at the piano, improvising. From 1924 until 1943, he was the director of ASCAP. He declined re-nomination due to ill health. Speaks died in 1948, age 74.
+
+
+
+ 

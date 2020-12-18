@@ -1,0 +1,2 @@
+
+**Harold Dixon** wrote a number of other songs including; *Ignorant Mama, Papa's Gonna Educate You* (1925), *Fireside Blues* (1921),and *Along The Gypsy Trail*. Beyond that, I've been unable to find much more about him. It's possible that after writing that 1925 song, he was abducted and tortured by righteously incensed females. 

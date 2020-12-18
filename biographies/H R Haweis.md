@@ -1,0 +1,2 @@
+
+**H.R. Haweis** was a musician, music scholar and Reverend he wrote several books across a wide spectrum of subjects from a treatise on cremation titled Ashes to Ashes, a book on Violins, *Old Violins* published by John Grant, Edinburgh 1905, *Old Songs* with drawings by Edwin A Abbey and *Alfred Parsons to Music and Morals* with David Bogue, in 1882. Though he seems to have left behind a number of works, little else can be found about him.

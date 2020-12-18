@@ -1,0 +1,4 @@
+
+**Amy Woodforde-Finden** (1860-1919) was born Amelia Ward in Valparaiso, Chile, where her American father was British Consul. Later the family settled in South Kensington, after which Amy travelled in Kashmir and married a lieutenant-colonel who had served with Colonel Nicolson. Perhaps surprisingly, she experienced difficulty getting her songs published, until the singer Hamilton Earle took them up. Among artists who have recorded the *Kashmiri Song*, the most unlikely is perhaps Rudolph Valentino in his only recording.(from CD liner notes where this song as well as *I'll Sing Thee Songs of Araby* appears on Hyperion *More Songs My Father Taught Me*)
+
+ 

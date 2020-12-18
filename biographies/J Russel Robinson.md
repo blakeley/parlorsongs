@@ -1,0 +1,6 @@
+
+**J. Russel Robinson** (1892 - 1963) was a United States ragtime and jazz pianist and a composer of popular tunes. Robinson was born in Indianapolis, Indiana. He started publishing ragtime compositions in his teens; his early hits included *Sapho Rag* and *Eccentric* (Rag). With his drummer brother he toured the US South in the early 1910s, including an extended stay in New Orleans. He was known for his heavily blues and jazz influenced playing style; advertisements billed him as "The White Boy with the Colored Fingers".
+In 1919 Robinson joined the Original Dixieland Jazz Band. He then went to work with W.C. Handy's publishing company, supplying new arrangements and lyrics for popular editions of tunes like *Memphis Blues* and *Ole Miss* in the 1920s. He also played piano with verious popular and blues singers in phonograph recording sessions, accompanying singers such as Annette Hanshaw, Lucille Hegamin, Marion Harris, and Lizzie Miles. Among his other works are *The Sappho Rag* (1909), *Dynamite Rag* (1910), *The Minstrel Man* (1911), *Whirlwind Rag* (1911), *That Eccentric Rag* (1912), *Te-na-na *(1912), *Margie* (1920), *Aggravatin' Papa* (1933) and *St. Louis Gal* (1923).(From Wikipedia, the free Encyclopedia in accordance with the GNU Free Documentation License, Version 1.2)
+
+
+ 

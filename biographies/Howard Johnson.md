@@ -1,0 +1,2 @@
+
+**Howard Johnson** (b. 1887, Waterbury, CT, d. 1941, New York,NY) (not the restaurant man) was also one of the greatest lyricists of the period, also with many hits to his credit. His name appears over and over in our collection in such famous works as *M-O-T-H-E-R*, *When The Moon Comes Over The Mountain*, *Where Do We Go From Here*, featured in the first installment of our three part essay about World War I music) and *Freckles*.  

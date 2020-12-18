@@ -1,0 +1,2 @@
+
+ **Alfred Bryan** (b. 1871, Ontario Canda - d. 1958, New Jersey). A prolific and prominent lyricist of early Tin Pan Alley, Bryan collaborated with some of the best composers including Percy Wenrich and Fred Fisher. Bryan's most lasting hit was the classic, *Peg O' My Heart* from 1913 with Fisher. Some of his other works include *Rainbow* (1908),and *It's A Cute Little Way Of My Own* sung in 1917 by the great Anna Held in the show *Follow Me*.

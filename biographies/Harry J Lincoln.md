@@ -1,0 +1,2 @@
+
+**Harry J. Lincoln** also published under the name of Abe Losch and also as a Vandersloot. Writer of a number of works we have featured over the years, his most famous work may arguably be *The Midnight Fire Alarm*, written by Lincoln in 1900 and republished by E.T. Paull in 1908. Lincoln did write a few songs including; *Jennie* (1920), *In The Valley Where The Robins Used to Sing* (1908) and *Triumphant Lindburg* (1928) but it is his rags and marches that he is best known for. All the works written as Losch were also marches. 

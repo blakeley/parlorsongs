@@ -1,0 +1,2 @@
+
+**Katherine Glen**(dates unknown) was from the Portland, Oregon area and a number of her works are in the Multnomah County Library there. Her songs were published primarily in the period from 1910 to 1920. Though she never achieved national prominence, she composed several fine works using poems by Sara Teasdale and other authors for her songs, as they appeared in Harper's Magazine. Among her works are; *Entreaty* (1916); *Homeward Bound* (1919); *Twilight* (1916); *Folks Need ALot Of Loving* (1921); *Good Night* (1920); *Little Moon* (1920) and *Mr. Robin* (1920). 

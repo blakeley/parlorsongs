@@ -1,0 +1,2 @@
+
+**Ernie Burnett** (b. Cincinnati, Ohio 1884 - d. Sarnac Lake, New York, 1959) Like many composers of the era, Burnett spent a few years as a vaudeville performer. He left the United States while still a teenager to get a formal education in music abroad. He studied in Italy, Austria and at the Charlottenburg Conservatory. On his return in 1901 he performed as a pianist in vaudeville. He led his own orchestra and founded his own publishing company. In WWI he served in the 89th division of the AEF. *Melancholy* appears to be his only song composition of note. 

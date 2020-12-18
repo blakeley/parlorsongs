@@ -1,0 +1,2 @@
+
+**Lewis Muir** (1884 - 1950) was a pianist and famous ragtime composer of the period. He performed at honky tonks in St Louis on 1904 and in New York City n 1910. He was also an acclaimed performer in London. His credits include, *Play That Barber Shop Chord* (1910), *When Ragtime Rosey ragged The Rosary* (1911) and *Cowboy Joe* in 1912.

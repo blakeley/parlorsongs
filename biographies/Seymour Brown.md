@@ -1,0 +1,2 @@
+
+ **Seymour Brown** (b. 1885, Philadelphia - d. 1947, Philadelphia) Brown was an actor and lyricist. In addition to his lyrics for the 1914 work, *Rebecca of Sunnybrook Farm*, his best known work is *Oh You Beautiful Doll* (1911). Brown also wrote lyrics for a number of Broadway productions including; *Rufus LeMaire's Affairs* (1927), *Adrienne* (1923) and *A Pair of Queens* (1916). As an actor he starred in a number of productions including the 1907 musical *The Grand Mogul*. Among his other songs are *Gee, But I Like Music With My Meals* with Nat D. Ayer.

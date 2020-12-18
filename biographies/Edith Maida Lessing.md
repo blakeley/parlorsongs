@@ -1,0 +1,2 @@
+
+**Edith Maida Lessing** is credited with a few other works besides *Oh! You Circus Day*. Perhaps her most lasting song was *Just as the Ship Went Down*, a 1912 an emotion laden tribute piece to the Titanic's lost souls. Also in 1912 she published *Goin' to the Country Fair* and *When Crazy Joe Did The Alligator Slide* (music by Dennison Cook). In 1915, she wrote the lyrics to *The Jitney Bus* with music by Roy Ingraham. Her dates and biographical information seems to be well hidden.

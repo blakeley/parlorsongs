@@ -1,0 +1,2 @@
+
+**Harry Jentes** (1887-1958) Harry Jentes was an American vaudeville performer and composer of popular music. He wrote a number of rags the best known probably being *The Rhapsody Rag* (1911), *The Soup and Fish Rag* (1913 ) which he co-authored with Pete Wendling and *Bantam Step* (1916). His best known song is probably *I Don't Want To Get Well* (1917). Jentes also wrote for some Broadway productions including Earl Carroll's Vanities in 1925 During the 1920's, Jentes cut several piano rolls. He was born and died in New York City.

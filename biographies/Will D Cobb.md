@@ -1,0 +1,2 @@
+
+**Will D. Cobb** (1876 - 1930) Cobb, a Philadelphia native was educated at Girard College there. He was a department store saleman who wrote song lyrics on the side. One of his earlest works was *Goodbye Dolly Gray* with Paul Barnes in 1897. His career really took flight when he met Gus Edwards and they began collaborating on songs. their greatest hit is probably *School Days* in 1906 but they had many other hit songs as a team. Cobb also collaborated with other important composers of the period. Cobb died in New York City in 1930.

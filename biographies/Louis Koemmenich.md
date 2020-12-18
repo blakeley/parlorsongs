@@ -1,0 +1,2 @@
+
+**Louis Koemmenich** was born in Elberfield, Germany in 1866 and emigrated to the US before 1890. He set down his roots in NYC and studied with Anton Krause and Barmen. By 1890 he was a teacher and conductor at Kullak's Academy. He held various other conducting posts, most notably conducting the Brooklyn Sangerbund (1894), the New York Oratorio Society (1912 - 17) and the New York Beethoven Society (1917 - 22). Along with his composition of marches and other popular works, Koemmenich also composed a number of choruses and a cantata. He died in NY in 1922 .
