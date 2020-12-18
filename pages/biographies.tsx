@@ -70,7 +70,7 @@ const Page: FunctionComponent<{ files: File[] }> = ({ files }) => (
         <h1 style={{ textAlign: "left" }}>Composer Biographies</h1>
         <ol className="mb-32">
           {files.map((file) => (
-            <li>
+            <li key={file.name}>
               <a {...({ name: file.name } as any)}></a>
               <h3>{file.name}</h3>
               <section>
